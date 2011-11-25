@@ -1,0 +1,14 @@
+$LOAD_PATH.unshift('../lib')
+
+require 'tokenizer'
+
+
+
+
+options = :de
+tok = Tokenizer::Tokenizer.new(options)
+
+while str = gets
+	a = tok.tokenize(str)
+	puts a
+end

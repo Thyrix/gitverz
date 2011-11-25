@@ -1,0 +1,6 @@
+= CHANGELOG
+
+== COMPLETED
+
+=== 0.0.1
+    * Simple tokenization

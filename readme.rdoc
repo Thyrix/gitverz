@@ -1,0 +1,24 @@
+
+= TOKENIZER
+
+Very very very simple tokenizer, result of a programming class.
+
+== DESCRIPTION
+
+
+=== Features
+
+== INSTALLATION
+
+== SYNOPSIS
+
+== SUPPORT
+
+== CHANGELOG
+
+
+== CAUTION
+This library is <b>work in process</b>! Interface is far from complete,
+you might face some not implemented features.
+
+Please DO NOT contact me with your suggestions, bug reports and feature requests.
